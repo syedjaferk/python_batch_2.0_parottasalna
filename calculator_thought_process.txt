@@ -1,0 +1,34 @@
+Text Based: 
+
+1. Display Menu
+    Greeting Message
+
+    List of available options or methods
+    
+    1. Add
+    2. Subtract
+    3. Multiply
+    4. Divide
+    5. Modulus
+    6. Exponentiate
+
+    Get user input operator. 
+        - Handle other characters/options issues, No input only empty character
+        - Don't want to perform any action. Need to close. 
+        - Clear/Reset
+
+2. Actual Inputs / Operands
+    - Two Inputs
+        - Input Validation -> Alphabets, Symbols
+
+3. Actual Functionality / Calculate
+    Input A with Operator and Input B = Result
+    return Result
+
+4. Main Function - Loop. 
+
+1st Ieteration: 
+- 
+
+    
+
