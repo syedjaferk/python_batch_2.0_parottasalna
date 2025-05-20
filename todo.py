@@ -14,6 +14,11 @@ def add_task(task_name, task_description):
     save_tasks()
 
 def list_tasks():
+    counter = 0
+    for task in task_list:
+        print(counter, task)
+        counter += 1
+    
     for index, task in enumerate(task_list):
         print(f"{index} {'-'.join(task)}")
 

@@ -1,7 +1,7 @@
 import sys
 import os
 
-TASK_FILE = "tasks.txt"
+TASK_FILE = "tasks_pradeep.txt"
 
 def load_tasks():
     if not os.path.exists(TASK_FILE):
